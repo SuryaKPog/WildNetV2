@@ -26,3 +26,8 @@ Model Training – MobileNetV2 is fine-tuned on an extensive animal dataset to i
 Prediction & Evaluation – The trained model predicts the species from an image and is evaluated on a test dataset.
 
 Deployment Ready – The model can be easily integrated into a web app, mobile app, or an API for real-world use.
+
+
+**DATASET**
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
